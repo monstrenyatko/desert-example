@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.monstrenyatko</groupId>
 	<artifactId>desert-example</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 
 	<organization>
 		<name>Monstrenyatko</name>
@@ -14,7 +14,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<desert.version>0.0.1</desert.version>
+		<desert.version>0.0.2</desert.version>
 	</properties>
 
 	<dependencies>
